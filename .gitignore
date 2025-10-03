@@ -1,0 +1,4 @@
+.env
+__pycache__
+/vector_db
+/docs_for_rag
